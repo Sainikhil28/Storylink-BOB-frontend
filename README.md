@@ -51,6 +51,8 @@ This project is a frontend application for Storylink, a platform for sharing and
 - **API Integration**: Communicates with backend APIs using Axios for fetching and posting data.
 
 
+### Outputs:
+
 <img width="960" alt="image" src="https://github.com/Sainikhil28/Storylink-BOB-frontend/assets/96835217/fa30d827-242f-442f-8c21-5ae613b1d9f9">
 
 <img width="945" alt="image" src="https://github.com/Sainikhil28/Storylink-BOB-frontend/assets/96835217/06fe77aa-f2c7-449b-acb7-b902571e3189">
