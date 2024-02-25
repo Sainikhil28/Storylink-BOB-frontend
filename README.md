@@ -50,6 +50,9 @@ This project is a frontend application for Storylink, a platform for sharing and
 - **State Management**: Utilized React hooks for managing component-level state.
 - **API Integration**: Communicates with backend APIs using Axios for fetching and posting data.
 
+## Contributors
+Sai Nikhil S
+
 
 ### Outputs:
 
